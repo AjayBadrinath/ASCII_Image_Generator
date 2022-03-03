@@ -1,4 +1,5 @@
 import numpy as np
+
 from PIL import Image
 
 im=Image.open(r"E:/krsna.png")
