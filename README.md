@@ -1,6 +1,9 @@
 # ASCII_Image_Generator
 Ascii Image generator
 
+![image](https://user-images.githubusercontent.com/92035508/156537500-4052fb44-4a3e-4a3c-a1f4-7db32c12fa0d.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/92035508/156531249-6fe336cb-3a1f-421f-827d-d8091c9a2db2.png)
 
